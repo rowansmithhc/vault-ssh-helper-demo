@@ -6,3 +6,4 @@ path "ssh-otp-test/*" {
 path "ssh-otp-test/creds/otp_key_role" {
   capabilities = ["create", "read", "update"]
 }
+
